@@ -10,3 +10,6 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body{
+    background-image: URL(https://i.pinimg.com/originals/68/8e/44/688e447b12909607c988197eb8e2e819.jpg);
+}
