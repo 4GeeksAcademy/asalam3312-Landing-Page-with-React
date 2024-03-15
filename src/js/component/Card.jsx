@@ -9,7 +9,8 @@ const Card = (props) => {
                     <p className="card-text">{props.description}</p>
                 </div>
                 <div className="card-footer bg-light">
-                <button href={props.buttonUrl} type="button" className="btn btn-warning">Meet me</button>
+                {/* <button href={props.buttonUrl} type="button" className="btn btn-warning">Meet me</button> */}
+                <a href={props.buttonUrl} className="btn btn-warning">Meet me</a>
                 </div>
         </div>
     )

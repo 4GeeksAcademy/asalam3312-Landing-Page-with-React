@@ -2,15 +2,6 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    /*  <nav className="navbar navbar-dark bg-dark d-flex justify-content-between">
-       <div className="text-white">Start Bootstrap</div>
-       <div className="d-flex justify-content-evenly text-white">
-         <h2 className="m-1">Home</h2>
-         <h2 className="m-1">About</h2>
-         <h2 className="m-1">Services</h2>
-         <h2 className="m-1">Contact</h2>
-       </div>
-     </nav> */
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark container-fluid w-auto">
       <div class="container-fluid d-flex justify-content-between">
         <a class="navbar-brand" href="#">Start Bootstrap</a>
